@@ -1,3 +1,3 @@
-# Challenge Hub
+# Try Buddy
 
-Initial repository for Challenge Hub.
+Initial repository for Try Buddy.
